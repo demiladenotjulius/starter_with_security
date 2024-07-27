@@ -1,17 +1,15 @@
-# Express MVC Starter
+# Transcribe
 
-This is a starter template for building MVC (Model-View-Controller) applications using Express.js.
+This is a repo that transcribe your audio and you can translate to your preferred language.
 
 ## Features
 - Organized folder structure
 - Environment variable configuration
-- Modular routes
-- Example controllers and models
-- Middleware for authentication and logging
-- Basic security best practices
+- Tesxt Translation
+- Audio transcribe
 - Utility functions
 - Unit and integration testing setup
-- Comprehensive documentation
+
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/kobiowuquadri/express-mvc-starter.git`
